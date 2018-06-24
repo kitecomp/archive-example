@@ -1,6 +1,6 @@
 # Archive Example
 
-This project shows how to load a ``.caar`` file created exported from [Kite Compositor for Mac](https://kiteapp.co) into both a Mac and an iOS app.
+This project shows how to load a ``.caar`` file created and exported from [Kite Compositor for Mac](https://kiteapp.co) into both a Mac and an iOS app.
 
 <br>
 
